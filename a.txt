@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello
 viju111
+=======
+hello1111
+aa123
+>>>>>>> easy-mode
